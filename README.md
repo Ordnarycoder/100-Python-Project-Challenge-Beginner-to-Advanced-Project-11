@@ -1,0 +1,1 @@
+I used class logic for this project. Basic guide.
